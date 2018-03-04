@@ -1,0 +1,18 @@
+{
+  "name": "elasticsearchv6pagingtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "batch-promises": "0.0.3",
+    "elasticsearch": "^14.1.0",
+    "lorem-ipsum": "^1.0.4",
+    "path": "^0.12.7",
+    "sillyname": "^0.1.0"
+  }
+}
